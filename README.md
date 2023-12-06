@@ -1,70 +1,94 @@
-# Getting Started with Create React App
+<a  name="readme-top"></a>
+  
+<!-- HARVEL ELECTRIC -->
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br  />
 
-## Available Scripts
+<div  align="center">
 
-In the project directory, you can run:
 
-### `npm start`
+<img  src="https://github.com/bichlienho/Group1-eProject-Apteach-Harvel-Electric/public/assets/images/logo/logo1.png"  alt="Logo"  width="768px"  height="auto">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  
 
-### `npm test`
+<h3  align="center">HARVEL ELECTRIC</h3>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  We are a company specializing in distributing products from famous brands, but we are committed totrying to serve and sell quality products, suitable for customers' prices. needs for family use, the company has sold a number of household electrical products, refrigeration... And we believe that one day soon, our company will be known to more people.
+  <br  />
+  <a  href="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/tree/main"><strong>Explore the source »</strong></a>
+  <a  href="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/tree/main/document" target="_blank"><strong>Explore the documents »</strong></a>
 
-### `npm run build`
+  <br  /><a  href="https://e-project-fpt-aptech-group1-durable-furniture.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/-6b57JYreSc" target="_blank">Video</a>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<img  src="https://raw.githubusercontent.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/main/public/images/UI-DEMO.png"  alt="Logo"  width="768px"  height="auto">
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+  ### Built With
+  Below is the languages/libraries we used for this project:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+  
+  
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![HTML]&nbsp;![CSS3] &nbsp;![JS]&nbsp;![SASS]&nbsp;![REACT]
+<div  align="left">
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+  
+### Features </br>
+<ol>
+<li>
+The Home Page should be created making use of Sections with a suitable logo.</br>
+</li>
+<li>
+The home page should contain details about electronic home appliances and appropriate visual styling. </br>
+</li>
+<li>
+The website will display a menu containing options that briefly introduce the different home electrical products available, the location of the store, and any other information if required.</br>
+</li>
+<li>
+The information is classified according to the brand name of the product, like if the User wants to see only “FAN” product or any other brand product then he can click on the Link/button/menu, etc. and can only view that Brand products.</br>
+</li>
+<li>
+When a user selects any particular brand, a list of products for that brand will be displayed</br>
+</li>
+<li>
+A brief summary of features of individual products should be displayed on the Web Page along with the product but detailed Features should be stored in Individual Word documents which can be downloaded or viewed by the User who wishes to see the same.</br>
+</li>
 
-## Learn More
+<li>
+There should be a “Contact Us” page which will have the Address of the Company which is as follows and the mail address which when clicked will invoke the local mail client from where they can send an email. Address of the Company should be displayed using GeoLocation API (eg. GoogleMaps).</br>
+</ol>
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+ ## Members of group
+ ### Leader : Ho Ti Bich Lien `Student1506037`
+#### Members:
+Tran Thi Thao `Student1501286` </br>
+Nguyen Manh Duy `Student1501279` </br>
+Vo Hoang Khai `Student1477470` </br>
+Nguyen Lam Chi Nguyen `Student1501858` </br>
+ 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+[HTML]:https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+[CSS3]:https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+[JS]:https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+[SASS]:https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white
+[REACT]:https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
