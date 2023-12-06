@@ -1,0 +1,137 @@
+footer {
+	overflow: hidden;
+}
+.footer_dark {
+	background-color: #F1EDED;
+	position: relative;
+}
+.footer_top {
+	padding: 100px 0 70px;
+}
+.footer_logo {
+	margin-bottom: 20px;
+}
+footer p {
+	font-size: 14px;
+}
+footer .widget {
+	margin-bottom: 30px;
+}
+footer .widget_title {
+	text-transform: capitalize;
+	margin-top: 10px;
+	margin-bottom: 25px;
+	font-size: 18px;
+}
+.widget_links li {
+	list-style: none;
+	padding-bottom: 10px;
+}
+.widget_links li:last-child {
+	padding-bottom: 0;
+}
+.widget_links li a {
+	font-size: 14px;
+	color: #0f0f0f;
+}
+.contact_info > li {
+	margin-bottom: 15px;
+	list-style: none;
+}
+.contact_info > li:last-child {
+	margin-bottom: 0px;
+}
+.contact_info li i {
+	display: inline-block;
+	margin-right: 10px;
+	margin-top: 4px;
+	font-size: 18px;
+	vertical-align: top;
+}
+.contact_info li span {
+	float: left;
+	margin-right: 10px;
+	max-width: 70px;
+	width: 100%;
+	color: #0f0f0f;
+}
+.contact_info span + * {
+	overflow: hidden;
+	color: #0f0f0f;
+	margin: 0;
+	font-size: 14px;
+	line-height: 26px;
+}
+.contact_info i + * {
+	overflow: hidden;
+	font-size: 14px;
+	color: #0f0f0f;
+	line-height: 26px;
+	margin: 0;
+	vertical-align: middle;
+	max-width: 78%;
+	display: inline-block;
+}
+.contact_info_light li i {
+	border-color: #0f0f0f;
+	color: #0f0f0f;
+}
+.contact_info_light li span,
+.contact_info_light li a {
+	color: #0f0f0f;
+}
+.contact_info_style2 i + * {
+	font-size: 18px;
+}
+.contact_info_style2 li i {
+	margin-right: 8px;
+	margin-top: 2px;
+	font-size: 22px;
+	color: #FF324D;
+}
+.bottom_footer {
+	padding: 30px 0;
+	position: relative;
+}
+.footer_link li {
+	display: inline-block;
+	position: relative;
+}
+.footer_link li a {
+	font-size: 14px;
+	padding: 0 5px;
+	color: #0f0f0f;
+}
+.footer_dark h1, .footer_dark h2, .footer_dark h3, .footer_dark h4, .footer_dark h5, .footer_dark h6, .footer_dark p, .footer_dark a, .footer_dark .widget_links li a, .footer_dark .footer_link li a, .footer_dark .post_content a {
+	color: #0f0f0f;
+}
+.footer_dark a:hover, .footer_dark .widget_links li a:hover, .widget_links li a:hover, .footer_dark .footer_link li a:hover,.footer_link li a:hover {
+	color: #FF324D;
+}
+.widget_contact_form {
+	background-color: #0f0f0f;
+	padding: 20px 30px 30px;
+	margin-top: -190px;
+	box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+.bottom_footer .social_icons li {
+	padding-bottom: 0;
+}
+.footer_payment li,
+.app_list li {
+	display: inline-block;
+	list-style: none;
+}
+.footer_call {
+	border-radius: 40px;
+	padding: 15px;
+	text-align: center;
+	background-color: rgba(0,0,0,0.2);
+}
+.footer_call * {
+	margin: 0;
+	font-size: 22px;
+}
+.footer_call i {
+	margin-right: 10px;
+}
