@@ -2,7 +2,7 @@ import React from "react";
 import Slide from "../Component/Slide";
 import Trandy from "../json/Trandy.json";
 import Vip from "../json/Vip.json";
-function Home() {
+function Home({handleAdd}) {
   return (
     <div>
       <div className="container-fluid">
@@ -70,7 +70,7 @@ function Home() {
                 <h5 class="text-uppercase text-primary mb-3">
                   20% off the all order
                 </h5>
-                <h1 class="mb-4 font-weight-semi-bold">Spring Collection</h1>
+                <h1 class="mb-4 font-weight-semi-bold">Hot Collection</h1>
               </div>
             </div>
           </div>
@@ -81,7 +81,7 @@ function Home() {
                 <h5 class="text-uppercase text-primary mb-3">
                   20% off the all order
                 </h5>
-                <h1 class="mb-4 font-weight-semi-bold">Winter Collection</h1>
+                <h1 class="mb-4 font-weight-semi-bold">Harvel Collection</h1>
               </div>
             </div>
           </div>
@@ -91,7 +91,7 @@ function Home() {
       <div className="container-fluid pt-5">
         <div className="text-center mb-4">
           <h2 className="section-title px-5">
-            <span className="px-2">Trandy Products</span>
+            <span className="px-2">Best Seller</span>
           </h2>
         </div>
 
@@ -118,10 +118,14 @@ function Home() {
                   >
                     <i className="fas fa-eye text-primary mr-1"></i>View Detail
                   </a>
-                  <a href="" className="btn btn-sm text-dark p-0">
-                    <i className="fas fa-shopping-cart text-primary mr-1"></i>
-                    Add To Cart
-                  </a>
+                  <button
+                          className="btn btn-sm text-dark p-0"
+                          type="button"
+                          onClick={() => handleAdd(titem)}
+                        >
+                          <i className="fas fa-shopping-cart text-primary mr-1"></i>
+                          Add To Cart
+                        </button>
                 </div>
               </div>
             </div>
