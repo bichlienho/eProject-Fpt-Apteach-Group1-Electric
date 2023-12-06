@@ -9,7 +9,7 @@ function Header({ number }) {
         <div className="row align-items-center py-3 px-xl-5">
           <div className="col-lg-3 d-none d-lg-block">
             <a class="navbar-brand" href="/">
-              <img class="logo_light" src="assets/images/logo/logo1_1.png" alt="logo" />
+              <img class="logo_light "  src="assets/images/logo/logo1_1.jpg" alt="logo" />
 
             </a>
           </div>
@@ -29,11 +29,11 @@ function Header({ number }) {
               </div>
             </form>
           </div>
-          <div className="col-lg-3 col-6 text-right">
-            <a href="" className="btn border">
-              <i className="fas fa-heart text-primary"></i>
-              <span className="badge">0</span>
-            </a>
+          <div className="col-lg-3  text-right">
+            {/* <a href="" className="btn border">
+              {/* <i className="fas fa-heart text-primary"></i> */}
+              {/* <span className="badge">0</span> *
+            </a> */}
             <Link to={"/cart"} className="btn border">
               <i className="fas fa-shopping-cart text-primary"></i>
               <span className="badge">{number}</span>

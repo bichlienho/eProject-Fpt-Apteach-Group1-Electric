@@ -10,7 +10,7 @@ function Footer() {
               <div class="col-lg-3 col-md-4 col-sm-12">
                 <div class="widget">
                   <div class="footer_logo">
-                    <a href="#"><img src="assets/images/logo/logo2.1.jpg" alt="logo" /></a>
+                    <a href="#"><img src="assets/images/logo/logo1_1.png" alt="logo" /></a>
                   </div>
                   <p>Coming to us you will always be satisfied.</p>
                 </div>

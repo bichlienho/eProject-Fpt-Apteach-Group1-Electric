@@ -85,9 +85,9 @@ function Menu() {
                   <a href="/login" className="nav-item nav-link">
                     Login
                   </a>
-                  <a href="" className="nav-item nav-link">
+                  {/* <a href="" className="nav-item nav-link">
                     Register
-                  </a>
+                  </a> */}
                 </div>
               </div>
             </nav>
