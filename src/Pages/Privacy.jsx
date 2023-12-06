@@ -33,8 +33,8 @@ function Privacy() {
                                             Confidentiality</a>
                                         </h6>
                                     </div>
-                                    <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
-                                        data-bs-parent="#accordion">
+                                    {/* <div id="collapseOne" class="collapse show" aria-labelledby="headingOne"
+                                        data-bs-parent="#accordion"> */}
                                         <div class="card-body">
                                             <ol>-We strive every day to develop appropriate security measures to protect
                                                 your Personal Data from unauthorized access or loss due to cyber theft."
@@ -50,17 +50,17 @@ function Privacy() {
                                                 this password confidential. You are not allowed to share your password with
                                                 anyone.</li>
                                         </div>
-                                    </div>
+                                    {/* </div> */}
                                 </div>
                                 <div class="card">
                                     <div class="card-header" id="headingTwo">
-                                        <h6 class="mb-0"> <a class="collapsed" data-bs-toggle="collapse" href="#collapseTwo"
-                                            aria-expanded="false" aria-controls="collapseTwo">Access, rectification,
-                                            withdrawal of consent and other rights
+                                     <h6 class="mb-0"> <a class="collapsed" data-bs-toggle="collapse" href="#collapseTwo"
+                                            aria-expanded="false" aria-controls="collapseTwo"><span>Access, rectification,
+                                            withdrawal of consent and other rights</span>
                                         </a> </h6>
                                     </div>
-                                    <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
-                                        data-bs-parent="#accordion">
+                                    {/* <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo"
+                                        data-bs-parent="#accordion"> */}
                                         <div class="card-body">
                                             <p>To the extent permitted by applicable data protection and privacy laws, you
                                                 may access, review, correct and update your Personal Data, and withdraw your
@@ -70,7 +70,7 @@ function Privacy() {
                                                 request regarding the processing of such information, Please contact us for
                                                 information.</p>
                                         </div>
-                                    </div>
+                                    {/* </div> */}
                                 </div>
                                 <div class="card">
                                     <div class="card-header" id="headingThree">
@@ -78,8 +78,8 @@ function Privacy() {
                                             href="#collapseThree" aria-expanded="false"
                                             aria-controls="collapseThree">Disclosure and Retention</a> </h6>
                                     </div>
-                                    <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
-                                        data-bs-parent="#accordion">
+                                    {/* <div id="collapseThree" class="collapse" aria-labelledby="headingThree"
+                                        data-bs-parent="#accordion"> */}
                                         <div class="card-body">
                                             <p>We may provide or transfer Personal Data you provide to other Harver Electric
                                                 entities, authorized dealers and suppliers contracted with us to provide the
@@ -100,7 +100,7 @@ function Privacy() {
                                                     Electric employees and third parties.</li>
                                             </ul>
                                         </div>
-                                    </div>
+                                    {/* </div> */}
                                 </div>
                                 <div class="card">
                                     <div class="card-header" id="headingFour">
@@ -108,8 +108,8 @@ function Privacy() {
                                             href="#collapseFour" aria-expanded="false"
                                             aria-controls="collapseFour">Overview</a> </h6>
                                     </div>
-                                    <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
-                                        data-bs-parent="#accordion">
+                                    {/* <div id="collapseFour" class="collapse" aria-labelledby="headingFour"
+                                        data-bs-parent="#accordion"> */}
                                         <div class="card-body">
                                             <p>This Privacy Policy provides a general statement about how we aim to protect
                                                 and use your Personal Data. However, you may be provided with privacy
@@ -117,7 +117,7 @@ function Privacy() {
                                                 particular product or service offered by us or a member of our group.
                                                 provided by Harver Electric group.</p>
                                         </div>
-                                    </div>
+                                    {/* </div> */}
                                 </div>
                                 <div class="card">
                                     <div class="card-header" id="headingFive">
@@ -125,15 +125,15 @@ function Privacy() {
                                             href="#collapseFive" aria-expanded="false"
                                             aria-controls="collapseFive">Contact Info</a> </h6>
                                     </div>
-                                    <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
-                                        data-bs-parent="#accordion">
+                                    {/* <div id="collapseFive" class="collapse" aria-labelledby="headingFive"
+                                        data-bs-parent="#accordion"> */}
                                         <div class="card-body">
                                             <p>If you need assistance accessing or updating the Personal Data we have
                                                 collected, or if you have any questions regarding this Privacy Policy,
                                                 please contact our Guest Services Officer our products at
                                                 dpo@vn.harverelectric.com.</p>
                                         </div>
-                                    </div>
+                                    {/* </div> */}
                                 </div>
                             </div>
                         </div>
@@ -148,8 +148,8 @@ function Privacy() {
                                             aria-expanded="true" aria-controls="collapseSix"></a>What is the purpose of
                                             collecting information and the scope of information use? </h6>
                                     </div>
-                                    <div id="collapseSix" class="collapse show" aria-labelledby="headingSix"
-                                        data-bs-parent="#accordion2">
+                                    {/* <div id="collapseSix" class="collapse show" aria-labelledby="headingSix"
+                                        data-bs-parent="#accordion2"> */}
                                         <div class="card-body">
                                             <p>The information you provide via email to us, or information you send directly
                                                 to our contact address will help us:</p>
@@ -163,7 +163,7 @@ function Privacy() {
                                                 services.</li>
 
                                         </div>
-                                    </div>
+                                    {/* </div> */}
                                 </div>
                                 <div class="card">
                                     <div class="card-header" id="headingSeven">
@@ -172,15 +172,15 @@ function Privacy() {
                                             aria-controls="collapseSeven">Information storage time?</a>
                                         </h6>
                                     </div>
-                                    <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven"
-                                        data-bs-parent="#accordion2">
+                                    {/* <div id="collapseSeven" class="collapse" aria-labelledby="headingSeven"
+                                        data-bs-parent="#accordion2"> */}
                                         <div class="card-body">
                                             <p>The customer's personal data will be stored until cancellation is requested.
                                                 In all other cases, customer personal information will be kept confidential
                                                 on Toshiba's internal system</p>
 
                                         </div>
-                                    </div>
+                                    {/* </div> */}
                                 </div>
                                 <div class="card">
                                     <div class="card-header" id="headingEight">
@@ -206,8 +206,8 @@ function Privacy() {
                                             href="#collapseNine" aria-expanded="false" aria-controls="collapseNine">What
                                             is an overview of the privacy policy?</a> </h6>
                                     </div>
-                                    <div id="collapseNine" class="collapse" aria-labelledby="headingNine"
-                                        data-bs-parent="#accordion2">
+                                    {/* <div id="collapseNine" class="collapse" aria-labelledby="headingNine"
+                                        data-bs-parent="#accordion2"> */}
                                         <div class="card-body">
                                             <p>In this Privacy Policy, we describe the types of personal information we will
                                                 collect through our Services, how we use this information, how long we
@@ -222,7 +222,7 @@ function Privacy() {
                                             <ul class="list_style1">
                                             </ul>
                                         </div>
-                                    </div>
+                                    {/* </div> */}
                                 </div>
                                 <div class="card">
                                     <div class="card-header" id="headingTen">
@@ -231,8 +231,8 @@ function Privacy() {
                                             personal data safe?</a>
                                         </h6>
                                     </div>
-                                    <div id="collapseTen" class="collapse" aria-labelledby="headingTen"
-                                        data-bs-parent="#accordion2">
+                                    {/* <div id="collapseTen" class="collapse" aria-labelledby="headingTen"
+                                        data-bs-parent="#accordion2"> */}
                                         <div class="card-body">
                                             <p>We take the protection of personal data seriously. We have established
                                                 physical and technical safeguards to ensure the security of the personal
@@ -243,7 +243,7 @@ function Privacy() {
                                                 computer system or wireless connection is completely safe.
                                             </p>
                                         </div>
-                                    </div>
+                                    {/* </div> */}
                                 </div>
                             </div>
                         </div>
