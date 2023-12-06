@@ -32,7 +32,7 @@ function Login() {
                         </form>
                        
                         
-                     <div> <a href="signup.html">Sign up now</a></div>
+                     {/* <div> <a href="signup.html">Sign up now</a></div> */}
                     </div>
                 </div>
             </div>
