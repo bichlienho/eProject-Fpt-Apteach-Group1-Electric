@@ -7,7 +7,7 @@
 <div  align="center">
 
 
-<img  src="https://github.com/bichlienho/Group1-eProject-Apteach-Harvel-Electric/public/assets/images/logo/logo1.png"  alt="Logo"  width="768px"  height="auto">
+<img  src="https://user-images.githubusercontent.com/144961540/288266805-f64de42a-bd33-4612-833f-c221a2aeadae.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDE4MzE4NTgsIm5iZiI6MTcwMTgzMTU1OCwicGF0aCI6Ii8xNDQ5NjE1NDAvMjg4MjY2ODA1LWY2NGRlNDJhLWJkMzMtNDYxMi04MzNmLWMyMjFhMmFlYWRhZS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMxMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMTIwNlQwMjU5MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NTZmMmJhZGVmZjk1MWNiMjVhOWE5ODg2MTcxOTNkZDU0NjRhNDQzYzBmNzE2OTg0NmYzOWE1MDExZGFmODdjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.JBX4KbDU2clp83ziNzidWjp2eneS8bzCvoQo2o-7-9U"  alt="Logo"  width="768px"  height="auto">
 
 </a>
 
