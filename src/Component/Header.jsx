@@ -9,7 +9,7 @@ function Header({ number }) {
         <div className="row align-items-center py-3 px-xl-5">
           <div className="col-lg-3 d-none d-lg-block">
             <a class="navbar-brand" href="/">
-              <img class="logo_light "  src="assets/images/logo/logo1_1.jpg" alt="logo" />
+              <img class="logo_light "  src="/assets/images/logo/logo1_1.jpg" alt="logo" />
 
             </a>
           </div>
