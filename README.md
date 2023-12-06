@@ -17,12 +17,12 @@
 
   We are a company specializing in distributing products from famous brands, but we are committed totrying to serve and sell quality products, suitable for customers' prices. needs for family use, the company has sold a number of household electrical products, refrigeration... And we believe that one day soon, our company will be known to more people.
   <br  />
-  <a  href="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/tree/main"><strong>Explore the source »</strong></a>
-  <a  href="https://github.com/HitDrama/eProject-FPT-Aptech-Group4-Imitation-Jewelry/tree/main/document" target="_blank"><strong>Explore the documents »</strong></a>
+  <a  href="https://github.com/bichlienho/eProject-Fpt-Apteach-Group1-Electric/tree/master"><strong>Explore the source »</strong></a>
+  <a  href="https://github.com/bichlienho/eProject-Fpt-Apteach-Group1-Electric/tree/master/document" target="_blank"><strong>Explore the documents »</strong></a>
 
-  <br  /><a  href="https://e-project-fpt-aptech-group1-durable-furniture.vercel.app/" target="_blank">View Demo</a>  . <a  href="https://youtu.be/-6b57JYreSc" target="_blank">Video</a>
+  <br  /><a  href="https://e-project-fpt-apteach-group1-electric.vercel.app/" target="_blank">Video</a>
 
-<img  src="https://raw.githubusercontent.com/AliNguy3n/eProject-Fpt-Aptech-Group1-Durable-Furniture/main/public/images/UI-DEMO.png"  alt="Logo"  width="768px"  height="auto">
+
 
   ### Built With
   Below is the languages/libraries we used for this project:
