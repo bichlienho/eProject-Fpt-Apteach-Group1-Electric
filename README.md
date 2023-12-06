@@ -32,7 +32,8 @@
   
   
 
-![HTML]&nbsp;![CSS3] &nbsp;![JS]&nbsp;![SASS]&nbsp;![BOOSTRAP]&nbsp;![REACT]
+![HTML]&nbsp;![CSS3] &nbsp;![JS]&nbsp;![BOOSTRAP]&nbsp;![REACT]
+
 <div  align="left">
 
 
