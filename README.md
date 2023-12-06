@@ -32,7 +32,7 @@
   
   
 
-![HTML]&nbsp;![CSS3] &nbsp;![JS]&nbsp;![BOOSTRAP]&nbsp;![REACT]
+![HTML]&nbsp;![CSS3] &nbsp;![JS]&nbsp;![BOOTSTRAP]&nbsp;![REACT]
 
 <div  align="left">
 
