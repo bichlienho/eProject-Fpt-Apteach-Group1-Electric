@@ -64,7 +64,7 @@ There should be a “Contact Us” page which will have the Address of the Compa
 </ol>
 
  ## Members of group
- ### Leader : Ho Ti Bich Lien `Student1506037`
+ ### Leader : Ho Thi Bich Lien `Student1506037`
 #### Members:
 Tran Thi Thao `Student1501286` </br>
 Nguyen Manh Duy `Student1501279` </br>
