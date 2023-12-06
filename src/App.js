@@ -12,6 +12,7 @@ import Cart from "./Pages/Cart";
 import Contact from './Pages/Contact';
 import Termsofservice from './Pages/temsofservice';
 import Privacy from './Pages/Privacy';
+import Login from "./Pages/Login";
 function App() {
   //add cart
   const [cartItems, setCartItems] = useState([]);
@@ -44,7 +45,7 @@ function App() {
         <Menu />
 
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Home handleAdd={handleAdd} />} />
           <Route
             path="/category"
             element={<Category handleAdd={handleAdd} />}
@@ -65,6 +66,7 @@ function App() {
           <Route path='/contact' element={<Contact />} />
           <Route path='/term' element={<Termsofservice />} />
           <Route path='/privacy' element={<Privacy />} />
+          <Route path='/login' element={<Login />} />
         </Routes>
       </BrowserRouter>
 
