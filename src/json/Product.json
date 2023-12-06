@@ -429,7 +429,7 @@
         "id": 21,
         "name": "TOSHIBA ELECTRIC TORNADO FAN F-ASB50VN(W",
         "image": "/assets/images/quat/quattoshi1.jpeg ",
-        "file": "/assets/file/aquattoshi1.docx",
+        "file": "/assets/file/quattoshi1.docx",
         "slug": "san-pham-21",
         "desc": "The fan's design is inspired by aircraft propellers to increase air intake and  reduce noise, while creating 2.5 times more airflow.",
         "old_price": 14.39,
@@ -1000,7 +1000,7 @@
     {
         "id": 47,
         "name": " 9kg Series 3 Top Load Washing Machine with AI DD® in White  ",
-        "image": " assets/images/may giat/lg3.png ",
+        "image": " /assets/images/may giat/lg3.png ",
         "file": "/assets/file/maygiatLG3.docx",
         "slug": "san-pham-47",
         "desc": " A large lint filter helps to keep the tub and your clothes clean ",
@@ -1022,7 +1022,7 @@
     {
         "id": 48,
         "name": " Series 9 Washing Machine, Dryer & Stacking Kit Pack  ",
-        "image": "assets/images/may giat/lg5.png  ",
+        "image": "/assets/images/may giat/lg5.png  ",
         "file": "/assets/file/maygiatLG5.docx",
         "slug": "san-pham-48",
         "desc": " Update your laundry range, and save with this stylish pack 12kg Series 9 Front Load Washing Machine with Steam+ 9kg Series 9 Heat Pump Dryer with Inverter Control Washing Machine Stacking Kit ",
@@ -1044,7 +1044,7 @@
     {
         "id": 49,
         "name": " 16kg/9kg XL Front Load Washer Dryer Combo with Steam+ and Turbo Clean®  ",
-        "image": " assets/images/may giat/lg4.jpg ",
+        "image": " /assets/images/may giat/lg4.jpg ",
         "file": "/assets/file/maygiatLG4.docx",
         "slug": "san-pham-49",
         "desc": " LG front load washers with AI Direct Drive technology can weigh the load and assess fabric softness to automatically select the optimal wash motions for thorough cleaning and clothing care. ",
@@ -1132,7 +1132,7 @@
     {
         "id": 53,
         "name": " LG Inverter InstaView Door-in-Door Refrigerator GR-X247MC  ",
-        "image": "assets/images/tu lanh/tulanh22 LG.png  ",
+        "image": "/assets/images/tu lanh/tulanh22 LG.png  ",
         "file": "/assets/file/tulanh22.docx",
         "slug": "san-pham-53",
         "desc": " LG Inverter InstaView Door-in-Door Refrigerator GR-X247MC is an extremely special refrigerator line, the product has impressed users with its design of lightly tapping twice on the mirror glass of the refrigerator for easy operation. ",
@@ -1154,7 +1154,7 @@
     {
         "id": 54,
         "name": " LG refrigerator with freezer on Inverter Linear™ - DoorCooling+™ technology GN-L702GB  ",
-        "image": " assets/images/tu lanh/tulanh23 LG.png ",
+        "image": " /assets/images/tu lanh/tulanh 23.png ",
         "file": "/assets/file/tulanh23.docx",
         "slug": "san-pham-54",
         "desc": " LG refrigerator with freezer on Inverter Linear™ - DoorCooling+™  technology GN-L702GB is a perfect combination of luxurious design and modern technology. ",
@@ -1176,7 +1176,7 @@
     {
         "id": 55,
         "name": "  12/9kg WashTower™ All-In-One Stacked Washer Dryer in Forest Green / Beige ",
-        "image": " assets/images/may giat/lg2.png ",
+        "image": " /assets/images/may giat/lg2.png ",
         "file": "/assets/file/maygiatLG2.docx",
         "slug": "san-pham-55",
         "desc": " LG refrigerator with freezer on Inverter Linear™ - DoorCooling+™  technology GN-L702GB is a perfect combination of luxurious design and modern technology. ",
