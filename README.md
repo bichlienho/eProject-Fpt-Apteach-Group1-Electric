@@ -73,7 +73,7 @@ There should be a “Contact Us” page which will have the Address of the Compa
 #### Members:
 Tran Thi Thao `Student1501286` </br>
 Nguyen Manh Duy `Student1501279` </br>
-Vo Hoang Khai `Student1477470` </br>
+Vo Hoang Khai `Student 1501207` </br>
 Nguyen Lam Chi Nguyen `Student1501858` </br>
  
 
