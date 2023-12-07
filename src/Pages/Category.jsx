@@ -3,6 +3,7 @@ import CateProduct from "../json/Product.json";
 import Brand from "../json/Brand.json";
 import Cate from "../json/Category.json";
 import { useParams } from "react-router-dom";
+import { Link } from "react-router-dom";
 
 function Category({ handleAdd }) {
   //set list để map hiển thị sản phẩm
@@ -52,12 +53,12 @@ function Category({ handleAdd }) {
               <h5 class="font-weight-semi-bold mb-4">Categories</h5>
               {Cate.map((citem, i) => (
                 <div class="custom-control custom-checkbox d-flex align-items-center justify-content-between mb-3">
-                  <a
-                    href={`/category/${citem.id}`}
+                  <Link
+                    to={`/category/${citem.id}`}
                     className="btn btn-sm btn-primary"
                   >
                     {citem.name}
-                  </a>
+                  </Link>
                 </div>
               ))}
             </div>
@@ -125,13 +126,14 @@ function Category({ handleAdd }) {
                         </div>
                       </div>
                       <div className="card-footer d-flex justify-content-between bg-light border">
-                        <a
-                          href={`/detail/${bitem.id}`}
+                        <Link
+                          to={`/detail/${bitem.id}`}
                           className="btn btn-sm text-dark p-0"
                         >
                           <i className="fas fa-eye text-primary mr-1"></i>View
                           Detail
-                        </a>
+                        </Link>
+
                         <button
                           className="btn btn-sm text-dark p-0"
                           type="button"

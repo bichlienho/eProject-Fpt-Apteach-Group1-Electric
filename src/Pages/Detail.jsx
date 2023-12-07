@@ -1,7 +1,7 @@
 import React from "react";
 import { useParams } from "react-router-dom";
 import Prodetail from "../json/Product.json";
-function Detail() {
+function Detail({ handleAdd }) {
   const { id } = useParams();
   let items = Prodetail.filter((items) => items.id == id);
   items = items[0];
@@ -54,15 +54,20 @@ function Detail() {
               </p>
             </div>
             <div className="d-flex align-items-center mb-4 pt-2">
-              <button className="btn btn-primary px-3">
-                <i className="fa fa-shopping-cart mr-1"></i> Add To Cart
+              <button
+                className="btn btn-primary px-3"
+                type="button"
+                onClick={() => handleAdd(items)}
+              >
+                <i className="fas fa-shopping-cart text-primary mr-1"></i>
+                Add To Cart
               </button>
             </div>
 
             <a
               download=""
               className="btn btn-sm btn-primary"
-              href="#"
+              href={items.file}
               target="_blank"
             >
               Download Information Product
