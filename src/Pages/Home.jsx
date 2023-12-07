@@ -2,7 +2,8 @@ import React from "react";
 import Slide from "../Component/Slide";
 import Trandy from "../json/Trandy.json";
 import Vip from "../json/Vip.json";
-function Home({handleAdd}) {
+import { Link } from "react-router-dom";
+function Home({ handleAdd }) {
   return (
     <div>
       <div className="container-fluid">
@@ -44,8 +45,8 @@ function Home({handleAdd}) {
           {Vip.map((vitem, i) => (
             <div className="col-lg-4 col-md-6 pb-1">
               <div className="cat-item d-flex flex-column border mb-4">
-                <a
-                  href={`/detail/${vitem.id}`}
+                <Link
+                  to={`/detail/${vitem.id}`}
                   className="cat-img position-relative overflow-hidden mb-3"
                 >
                   <img
@@ -53,7 +54,8 @@ function Home({handleAdd}) {
                     src={vitem.image}
                     alt={vitem.name}
                   />
-                </a>
+                </Link>
+
                 <h5 className="font-weight-semi-bold m-0">{vitem.name}</h5>
               </div>
             </div>
@@ -112,20 +114,20 @@ function Home({handleAdd}) {
                   </div>
                 </div>
                 <div className="card-footer d-flex justify-content-between bg-light border">
-                  <a
-                    href={`/detail/${titem.id}`}
+                  <Link
+                    to={`/detail/${titem.id}`}
                     className="btn btn-sm text-dark p-0"
                   >
                     <i className="fas fa-eye text-primary mr-1"></i>View Detail
-                  </a>
+                  </Link>
                   <button
-                          className="btn btn-sm text-dark p-0"
-                          type="button"
-                          onClick={() => handleAdd(titem)}
-                        >
-                          <i className="fas fa-shopping-cart text-primary mr-1"></i>
-                          Add To Cart
-                        </button>
+                    className="btn btn-sm text-dark p-0"
+                    type="button"
+                    onClick={() => handleAdd(titem)}
+                  >
+                    <i className="fas fa-shopping-cart text-primary mr-1"></i>
+                    Add To Cart
+                  </button>
                 </div>
               </div>
             </div>
